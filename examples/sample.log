@@ -1,0 +1,6 @@
+[2026-10-21 12:00:00] [INFO] Application started
+[2026-10-21 12:00:02] [DEBUG] Loaded configuration
+[2026-10-21 12:00:10] [WARNING] Response time exceeded threshold
+[2026-10-21 12:00:11] [ERROR] Request failed
+[2026-10-21 12:00:15] [INFO] Retrying request
+plain unstructured line
